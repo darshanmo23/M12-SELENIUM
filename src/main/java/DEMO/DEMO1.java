@@ -6,5 +6,6 @@ public class DEMO1 {
 		
 		System.out.print("git push");
 		System.out.println("changes");
+		System.out.print("ok");
 	}
 }
